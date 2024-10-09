@@ -1,0 +1,2 @@
+git config --global user.name nickicn
+git config --global user.email nicolelopes0008
